@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/medify-workflow/static/css/main.e6c13ad2.css",
+    "main.js": "/medify-workflow/static/js/main.583f0945.js",
+    "static/js/453.a8dcb85a.chunk.js": "/medify-workflow/static/js/453.a8dcb85a.chunk.js",
+    "index.html": "/medify-workflow/index.html",
+    "main.e6c13ad2.css.map": "/medify-workflow/static/css/main.e6c13ad2.css.map",
+    "main.583f0945.js.map": "/medify-workflow/static/js/main.583f0945.js.map",
+    "453.a8dcb85a.chunk.js.map": "/medify-workflow/static/js/453.a8dcb85a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.583f0945.js"
+  ]
+}
